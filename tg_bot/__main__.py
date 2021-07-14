@@ -22,7 +22,7 @@ PM_START_TEXT = """
 സംശയങ്ങൾക്ക് [Joey](https://t.me/DeepakV111_bot) pm വരാവുന്നതാണ്.....
 
 എന്നെ നോക്കി നടത്തുന്നത്  [Owner](tg://user?id={}) ആണ് . എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
-python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക് [Joey](https://t.me/DeepakV111) ലഭ്യമാകും.
+python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക് [Joey](https://t.me/DeepakV111_bot) ലഭ്യമാകും.
 എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും..
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
 
